@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="uncompleted_color">#808080</color>
+    <color name="completed_color">#006D5B</color>
+    <color name="completed_text_color">#006D5B</color>
+    <color name="uncompleted_text_color">#808080</color>
+</resources>
